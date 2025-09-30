@@ -133,12 +133,6 @@ Navigate to: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repo and create a pull request.
-
----
-
 ## 📜 License
 
 MIT License – Free to use and modify.
