@@ -80,7 +80,7 @@ ai_doc_summarizer/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-doc-summarizer.git
+git clone https://github.com/divyeshmutha12/ai_doc_summarizer.git
 cd ai-doc-summarizer
 ```
 
